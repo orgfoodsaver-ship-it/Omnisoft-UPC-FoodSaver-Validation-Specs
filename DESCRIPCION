@@ -1,0 +1,10 @@
+4.1 Acceptance Tests
+Esta sección detalla el diseño metodológico y la implementación técnica
+del conjunto de Pruebas de Aceptación para
+validar que el comportamiento del software de FoodSaver
+cumpla con las especificaciones del negocio y los atributos de calidad.
+Se utiliza el lenguaje de especificación ejecutable Gherkin estructurado en archivos .feature.
+
+Para cumplir rigurosamente con los requisitos del proyecto, se presentan las pruebas correspondientes a dos épicas del core business 
+(EP02 – Publicar excedentes y EP05 – Gestión de Inventario Minorista (Bodegas)), 
+además de cuatro historias de usuario asociadas a Requerimientos No Funcionales (NFR) de alta prioridad (Seguridad, Rendimiento y Disponibilidad).
